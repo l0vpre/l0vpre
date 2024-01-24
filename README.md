@@ -1,5 +1,5 @@
 ### Hello! Check out my drawing! https://t.me/l0vpre_xd
-- 🌱 I’m currently learning C#, Python, C
+- 🌱 I’m currently learning C#, Python, C, C++
 - ⚡ Fun fact: IM GNOME
 <!--
 **l0vpre/l0vpre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
